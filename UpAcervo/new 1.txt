@@ -1,0 +1,19 @@
+Entity Framework 20hs RLSISTEM
+Entity Framework: Banco de dados de forma eficiente 4hs Alura
+Asp.net: Razor 20hs Alura
+Jquery I : Introdução a biblioteca campeã de javascript 10hs Alura
+Jquery : Domine a biblioteca 12hs Alura
+JavaScript: Programando na linguagem Web 20hs
+HTML5 e CSS3: Primerias paginas 32hs Alura
+
+TITULO SUJEITO A PROTESTO APOS 05 CINCO DIAS DO VENCIMENTO
+APOS VENCIMENTO COBRAR MULTA DE 2%.
+APOS VENCIMENTO COBRAR MORA DIARIA DE R$ 2,27
+
+Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=master;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False
+
+NzVlr(chkfcp.Checked)))
+NzZero(txt_pST.Text)))
+NzZero(txt_pFCP.Text)))
+NzZero(txt_pFCPST.Text)))
+NzZero(txtpFCPSTRet.Text)))
